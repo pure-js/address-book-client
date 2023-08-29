@@ -12,8 +12,8 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		paths: {
-			base: dev ? '' : '/address-book-client',
-		},
+			base: dev ? '' : '/address-book-client'
+		}
 	}
 };
 
